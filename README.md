@@ -1,4 +1,5 @@
-### Hi there 👋
+## 💻🔐Cybersecurity Projects:
+#### [SOC LimaCharlie Sliver Lab](https://github.com/nuttercd/soc-limacharlie-sliver-lab)
 
 <!--
 **nuttercd/nuttercd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
