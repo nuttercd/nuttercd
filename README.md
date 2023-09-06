@@ -1,6 +1,3 @@
-# Welcome!
-
-
 ## 🔐Cybersecurity Projects:
 #### [SOC LimaCharlie Sliver Lab](https://github.com/nuttercd/soc-limacharlie-sliver-lab)
 <b>Main Objectives:</b>
