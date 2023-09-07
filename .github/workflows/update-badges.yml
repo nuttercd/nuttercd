@@ -20,7 +20,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Update badges"
           CREDLY_USER: cole-david.2db5ddb5
           CREDLY_SORT: POPULAR
