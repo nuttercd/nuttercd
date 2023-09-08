@@ -21,7 +21,7 @@
   - Detecting and Blocking attacks with LimaCharlie
   - Using Sliver to perform adversarial attacks
 
-#### [Azure Sentinel SIEM Attack Map](https://github.com/nuttercd/microsoft-azure-sentinel-honeypot-lab)
+#### [Microsoft Azure Sentinel SIEM Attack Map](https://github.com/nuttercd/microsoft-azure-sentinel-honeypot-lab)
 <b>Main Objectives:</b>
   - Microsoft Azure Services
   - KQL (Kusto Query Language)
