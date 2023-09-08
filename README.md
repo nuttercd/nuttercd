@@ -22,7 +22,7 @@
 #### [SOC LimaCharlie Sliver Lab](https://github.com/nuttercd/soc-limacharlie-sliver-lab)
 <b>Main Objectives:</b>
   - Seting up Virtual Machines
-  - Detecting and Blocking attacks with LimaCharlie
+  - Detecting and Blocking attacks with LimaCharlie (SIEM)
   - Using Sliver to perform adversarial attacks
 
 #### [Microsoft Azure Sentinel SIEM Attack Map](https://github.com/nuttercd/microsoft-azure-sentinel-honeypot-lab)
@@ -30,4 +30,14 @@
   - Microsoft Azure Services
   - KQL (Kusto Query Language)
   - Remote Desktop Protocol
+
+#### Vulnerability Management with Nessus (Soon)
+
+#### Microsoft Azure Active Directory (Soon)
+
+#### File Integrity Monitoring (Soon)
+
+#### Simple REST API (Soon)
+
+
 
