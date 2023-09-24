@@ -31,9 +31,13 @@
   - KQL (Kusto Query Language)
   - Remote Desktop Protocol
 
-#### Vulnerability Management with Nessus (Soon)
+#### [Microsoft Active Directory](https://github.com/nuttercd/microsoft-ad-lab)
+<b>Main Objectives:</b>
+  - Install and configure Microsoft's Active Directory Domain Services
+  - Enterprise level user management
 
-#### Microsoft Azure Active Directory (Soon)
+
+#### Vulnerability Management with Nessus (Soon)
 
 #### File Integrity Monitoring (Soon)
 
