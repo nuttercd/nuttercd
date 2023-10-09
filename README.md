@@ -18,6 +18,14 @@
 [![CompTIA Security Analytics Professional – CSAP Stackable Certification](https://images.credly.com/size/110x110/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png)](http://www.credly.com/badges/5bf6fb69-d90e-4892-bd09-d51a45a68851 "CompTIA Security Analytics Professional – CSAP Stackable Certification")
 <!--END_SECTION:badges-->
 
+<iframe
+  src="https://www.credential.net/embed/d5040975-9651-4b3f-a66b-5f2f16b5f52c?key=e437e6263f43beb06395b5ede30870f701af9ec3d3ca9ce808bb3e324e98c076"
+  width="110"
+  height="110"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 ## 🔐Cybersecurity Projects:
 #### [SOC LimaCharlie Sliver Lab](https://github.com/nuttercd/soc-limacharlie-sliver-lab)
 <b>Main Objectives:</b>
