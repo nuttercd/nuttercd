@@ -15,6 +15,7 @@
 [![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](http://www.credly.com/badges/bf433b6b-4f03-4ef6-be4e-c6e7d2413040 "CompTIA Security+ ce Certification")
 [![CompTIA CySA+ ce Certification](https://images.credly.com/size/110x110/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png)](http://www.credly.com/badges/7fa28e00-3bba-465e-936e-fe3b5edfc3bb "CompTIA CySA+ ce Certification")
 [![CompTIA Security Analytics Professional – CSAP Stackable Certification](https://images.credly.com/size/110x110/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png)](http://www.credly.com/badges/5bf6fb69-d90e-4892-bd09-d51a45a68851 "CompTIA Security Analytics Professional – CSAP Stackable Certification")
+<!--END_SECTION:badges-->
 <img src=pjptbadge.png width="110" height="110"/>
 
 
