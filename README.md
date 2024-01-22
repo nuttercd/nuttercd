@@ -12,9 +12,9 @@
 ## Badges
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/52291412-4108-4fa3-bee7-7fe76ca513fe "AWS Certified Cloud Practitioner")
-[![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](http://www.credly.com/badges/bf433b6b-4f03-4ef6-be4e-c6e7d2413040 "CompTIA Security+ ce Certification")
-[![CompTIA CySA+ ce Certification](https://images.credly.com/size/110x110/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png)](http://www.credly.com/badges/7fa28e00-3bba-465e-936e-fe3b5edfc3bb "CompTIA CySA+ ce Certification")
-[![CompTIA Security Analytics Professional – CSAP Stackable Certification](https://images.credly.com/size/110x110/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png)](http://www.credly.com/badges/5bf6fb69-d90e-4892-bd09-d51a45a68851 "CompTIA Security Analytics Professional – CSAP Stackable Certification")
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](http://www.credly.com/badges/af5d8105-b599-4361-a6f5-e09f1145c37c "CompTIA Security+ ce Certification")
+[![CompTIA CySA+ ce Certification](https://images.credly.com/size/110x110/images/5cb4b153-44d8-410c-97c6-6afba3faa4af/Comptia_CySA_2Bce.png)](http://www.credly.com/badges/f06d83aa-a3f9-4d89-9d0a-ded1f107cb67 "CompTIA CySA+ ce Certification")
+[![CompTIA Security Analytics Professional – CSAP Stackable Certification](https://images.credly.com/size/110x110/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png)](http://www.credly.com/badges/baf2c9a6-4e3d-4ce7-bc00-d49f7049002e "CompTIA Security Analytics Professional – CSAP Stackable Certification")
 [![Splunk Core Certified User](https://images.credly.com/size/110x110/images/93ffdd67-fa3a-4690-9289-094e2e3d63bd/20-14376-SPLK-Certification-Badge-Youracclaim.com-101_Splunk-Core-Certified-User.png)](http://www.credly.com/badges/b065d14b-8bf1-49c4-a8ba-b61af2c91c68 "Splunk Core Certified User")
 <!--END_SECTION:badges-->
 <img src=pjptbadge.png width="110" height="110"/>
